@@ -16,10 +16,3 @@ Founded and guided by Reverend Toby Ti Mustard, the organization operates under 
 
 ## Getting Started
 *(Provide instructions on how new members or developers can set up the project locally, install dependencies, or access organizational tools.)*
-
-## How to Contribute
-We welcome contributions from those who align with our mission to elevate humanity. 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Ensure your work adheres to our core principles.
-4. Submit a pull request with
